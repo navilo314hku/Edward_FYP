@@ -1,0 +1,654 @@
+ConvNetFlex_ep200
+training time:
+20230224_131703
+ConvNetFlex_ep200
+training time:
+20230224_131931
+ConvNetFlex_ep200
+training time:
+20230224_132758
+Finished TrainingConvNetFlex_ep300
+training time:
+20230224_133146
+ConvNetFlex_ep300
+training time:
+20230224_133238
+Finished TrainingRNN_test_ep300
+training time:
+20230224_134255
+RNN_test_ep300
+training time:
+20230224_134422
+RNN_ep300
+training time:
+20230224_134504
+RNN_LSTM_ep300
+training time:
+20230224_135034
+RNN_LSTM_ep300
+training time:
+20230224_135139
+RNN_LSTM_ep100
+training time:
+20230224_135338
+Epoch [1/100], Step [225/225], Loss: 1.0893
+Epoch [11/100], Step [225/225], Loss: 1.1145
+Epoch [21/100], Step [225/225], Loss: 1.0906
+Epoch [31/100], Step [225/225], Loss: 1.1195
+Epoch [41/100], Step [225/225], Loss: 1.0970
+Epoch [51/100], Step [225/225], Loss: 1.0825
+Epoch [61/100], Step [225/225], Loss: 1.0813
+Epoch [71/100], Step [225/225], Loss: 1.0929
+training time:
+20230226_221305
+training time:
+20230226_221653
+training time:
+20230226_221808
+Epoch [1/100], Step [225/225], Loss: 1.6978
+Epoch [11/100], Step [225/225], Loss: 1.0995
+training time:
+20230226_222647
+Epoch [1/100], Step [225/225], Loss: 1.4988
+Epoch [11/100], Step [225/225], Loss: 1.0845
+Epoch [21/100], Step [225/225], Loss: 1.3713
+training time:
+20230226_223756
+Epoch [1/100], Step [225/225], Loss: 1.1390
+training time:
+20230226_223955
+training time:
+20230226_224052
+Epoch [1/100], Step [897/897], Loss: 1.2745
+Epoch [11/100], Step [897/897], Loss: 0.3662
+training time:
+20230226_224815
+Epoch [1/100], Step [897/897], Loss: 0.4244
+training time:
+20230226_224904
+Epoch [1/100], Step [897/897], Loss: 0.8275
+Epoch [11/100], Step [897/897], Loss: 1.8424
+training time:
+20230226_231119
+training time:
+20230226_231130
+training time:
+20230226_231504
+training time:
+20230226_231709
+training time:
+20230226_231948
+training time:
+20230226_232053
+training time:
+20230226_232407
+training time:
+20230226_232738
+training time:
+20230226_233245
+training time:
+20230226_233302
+training time:
+20230226_234249
+training time:
+20230226_234351
+Epoch [1/100], Step [897/897], Loss: 1.2486
+training time:
+20230226_234436
+Epoch [1/100], Step [897/897], Loss: 0.9261
+Epoch [11/100], Step [897/897], Loss: 0.3185
+Epoch [21/100], Step [897/897], Loss: 2.2843
+training time:
+20230227_000146
+Epoch [1/15], Step [897/897], Loss: 0.4797
+Epoch [2/15], Step [897/897], Loss: 0.5165
+Epoch [3/15], Step [897/897], Loss: 0.5177
+training time:
+20230227_000440
+Epoch [1/15], Step [897/897], Loss: 0.5712
+Epoch [2/15], Step [897/897], Loss: 0.5371
+Epoch [3/15], Step [897/897], Loss: 1.3662
+training time:
+20230227_000713
+Epoch [1/15], Step [897/897], Loss: 0.7284
+Epoch [2/15], Step [897/897], Loss: 0.8255
+Epoch [3/15], Step [897/897], Loss: 1.4693
+Epoch [4/15], Step [897/897], Loss: 0.5265
+Epoch [5/15], Step [897/897], Loss: 2.6782
+Epoch [6/15], Step [897/897], Loss: 0.6815
+Epoch [7/15], Step [897/897], Loss: 0.6283
+Epoch [8/15], Step [897/897], Loss: 0.6816
+Epoch [9/15], Step [897/897], Loss: 1.4160
+Epoch [10/15], Step [897/897], Loss: 1.0261
+Epoch [11/15], Step [897/897], Loss: 0.4610
+Epoch [12/15], Step [897/897], Loss: 0.5319
+Epoch [13/15], Step [897/897], Loss: 0.9933
+Epoch [14/15], Step [897/897], Loss: 0.6811
+Epoch [15/15], Step [897/897], Loss: 0.4691
+Finished Trainingtraining time:
+20230322_120549
+training time:
+20230322_121027
+training time:
+20230322_121155
+training time:
+20230322_121257
+Epoch [1/200], Step [397/397], Loss: 1.0596
+Epoch [21/200], Step [397/397], Loss: 1.1033
+Epoch [41/200], Step [397/397], Loss: 1.1377
+Epoch [61/200], Step [397/397], Loss: 1.0718
+Epoch [81/200], Step [397/397], Loss: 1.1073
+Epoch [101/200], Step [397/397], Loss: 1.0579
+Epoch [121/200], Step [397/397], Loss: 1.1128
+Epoch [141/200], Step [397/397], Loss: 1.1490
+Epoch [161/200], Step [397/397], Loss: 1.1115
+Epoch [181/200], Step [397/397], Loss: 1.1593
+Finished Trainingtraining time:
+20230322_122410
+Epoch [1/15], Step [397/397], Loss: 1.1262
+Epoch [2/15], Step [397/397], Loss: 1.0955
+Epoch [3/15], Step [397/397], Loss: 1.1013
+Epoch [4/15], Step [397/397], Loss: 1.0822
+Epoch [5/15], Step [397/397], Loss: 1.0691
+Epoch [6/15], Step [397/397], Loss: 1.1804
+Epoch [7/15], Step [397/397], Loss: 1.1153
+Epoch [8/15], Step [397/397], Loss: 1.1321
+Epoch [9/15], Step [397/397], Loss: 1.0834
+Epoch [10/15], Step [397/397], Loss: 1.0855
+Epoch [11/15], Step [397/397], Loss: 1.0437
+Epoch [12/15], Step [397/397], Loss: 1.1370
+Epoch [13/15], Step [397/397], Loss: 1.1289
+Epoch [14/15], Step [397/397], Loss: 1.1072
+Epoch [15/15], Step [397/397], Loss: 1.0543
+Finished Trainingtraining time:
+20230322_122436
+Epoch [1/200], Step [397/397], Loss: 1.0872
+Epoch [21/200], Step [397/397], Loss: 1.1147
+Epoch [41/200], Step [397/397], Loss: 1.0920
+Epoch [61/200], Step [397/397], Loss: 1.1765
+Epoch [81/200], Step [397/397], Loss: 1.0841
+Epoch [101/200], Step [397/397], Loss: 1.0099
+Epoch [121/200], Step [397/397], Loss: 1.1341
+Epoch [141/200], Step [397/397], Loss: 1.1498
+Epoch [161/200], Step [397/397], Loss: 1.0933
+Epoch [181/200], Step [397/397], Loss: 1.0640
+Finished Trainingtraining time:
+20230322_122929
+Epoch [1/200], Step [397/397], Loss: 1.1518
+Epoch [21/200], Step [397/397], Loss: 1.0762
+Epoch [41/200], Step [397/397], Loss: 1.0925
+Epoch [61/200], Step [397/397], Loss: 1.0975
+Epoch [81/200], Step [397/397], Loss: 1.1326
+Epoch [101/200], Step [397/397], Loss: 1.1144
+Epoch [121/200], Step [397/397], Loss: 1.1809
+Epoch [141/200], Step [397/397], Loss: 1.1162
+Epoch [161/200], Step [397/397], Loss: 1.1454
+Epoch [181/200], Step [397/397], Loss: 1.0561
+Finished Trainingtraining time:
+20230322_124325
+training time:
+20230322_124650
+Finished Trainingtraining time:
+20230322_125144
+Finished Trainingtraining time:
+20230322_130025
+training time:
+20230322_130048
+Finished Trainingtraining time:
+20230322_134241
+training time:
+20230322_134254
+Finished Trainingtraining time:
+20230322_135809
+Finished Trainingtraining time:
+20230322_140148
+Finished Trainingtraining time:
+20230322_140652
+Finished Trainingtraining time:
+20230322_140728
+Finished Trainingtraining time:
+20230322_140907
+Finished Trainingtraining time:
+20230322_141201
+Finished Trainingtraining time:
+20230322_141801
+training time:
+20230322_142020
+Finished Trainingtraining time:
+20230322_200253
+Finished Trainingtraining time:
+20230322_200335
+Finished Trainingtraining time:
+20230322_205118
+Finished Trainingtraining time:
+20230322_205338
+Finished Trainingtraining time:
+20230322_205512
+Finished Trainingtraining time:
+20230322_210126
+training time:
+20230322_210219
+training time:
+20230322_210520
+training time:
+20230322_210705
+training time:
+20230322_210739
+Finished Trainingtraining time:
+20230322_210853
+Finished Trainingtraining time:
+20230323_002224
+training time:
+20230323_002300
+Finished Trainingtraining time:
+20230323_003200
+Finished Trainingtraining time:
+20230323_163007
+training time:
+20230323_163035
+training time:
+20230323_163051
+Finished Trainingtraining time:
+20230323_214933
+training time:
+20230323_214947
+Finished Trainingtraining time:
+20230323_224902
+Finished Trainingtraining time:
+20230325_221314
+Finished Trainingtraining time:
+20230325_221357
+Finished Trainingtraining time:
+20230325_221439
+training time:
+20230325_221527
+Finished Trainingtraining time:
+20230325_221621
+Finished Trainingtraining time:
+20230325_221701
+Finished Trainingtraining time:
+20230325_221737
+training time:
+20230325_221841
+training time:
+20230325_221940
+training time:
+20230325_222117
+Finished Trainingtraining time:
+20230325_222138
+Finished Trainingtraining time:
+20230325_222202
+Finished Trainingtraining time:
+20230325_222302
+Finished Trainingtraining time:
+20230325_222553
+Finished Trainingtraining time:
+20230325_222604
+Finished Trainingtraining time:
+20230325_222612
+Finished Trainingtraining time:
+20230325_222621
+Finished Trainingtraining time:
+20230325_222847
+Finished Trainingtraining time:
+20230325_222856
+Finished Trainingtraining time:
+20230325_222904
+Finished Trainingtraining time:
+20230325_222913
+Finished Trainingtraining time:
+20230325_222953
+Finished Trainingtraining time:
+20230325_223001
+Finished Trainingtraining time:
+20230325_223010
+training time:
+20230325_223020
+Finished Trainingtraining time:
+20230325_223030
+Finished Trainingtraining time:
+20230325_223038
+Finished Trainingtraining time:
+20230325_223047
+Finished Trainingtraining time:
+20230325_223121
+Finished Trainingtraining time:
+20230325_223130
+Finished Trainingtraining time:
+20230325_223139
+Finished Trainingtraining time:
+20230325_223148
+Finished Trainingtraining time:
+20230325_223207
+Finished Trainingtraining time:
+20230325_223216
+Finished Trainingtraining time:
+20230325_223224
+Finished Trainingtraining time:
+20230325_223233
+Finished Trainingtraining time:
+20230325_223330
+Finished Trainingtraining time:
+20230325_223339
+Finished Trainingtraining time:
+20230325_223349
+Finished Trainingtraining time:
+20230325_223358
+Finished Trainingtraining time:
+20230325_223500
+training time:
+20230325_223821
+Finished Trainingtraining time:
+20230325_223831
+Finished Trainingtraining time:
+20230325_223842
+Finished Trainingtraining time:
+20230325_223851
+Finished Trainingtraining time:
+20230325_224158
+Finished Trainingtraining time:
+20230325_224208
+Finished Trainingtraining time:
+20230325_224218
+Finished Trainingtraining time:
+20230325_224228
+Finished Trainingtraining time:
+20230325_224736
+Finished Trainingtraining time:
+20230325_224747
+Finished Trainingtraining time:
+20230325_224756
+Finished Trainingtraining time:
+20230325_224804
+Finished Trainingtraining time:
+20230325_225043
+Finished Trainingtraining time:
+20230325_225051
+Finished Trainingtraining time:
+20230325_225100
+Finished Trainingtraining time:
+20230325_225110
+Finished Trainingtraining time:
+20230325_225136
+Finished Trainingtraining time:
+20230325_225146
+Finished Trainingtraining time:
+20230325_225154
+Finished Trainingtraining time:
+20230325_225203
+Finished Trainingtraining time:
+20230325_225904
+Finished Trainingtraining time:
+20230325_225913
+Finished Trainingtraining time:
+20230325_225922
+training time:
+20230325_230116
+Finished Trainingtraining time:
+20230325_230125
+Finished Trainingtraining time:
+20230325_230134
+Finished Trainingtraining time:
+20230325_230143
+Finished Trainingtraining time:
+20230325_232729
+training time:
+20230325_232807
+training time:
+20230325_232924
+Finished Trainingtraining time:
+20230325_232941
+Finished Trainingtraining time:
+20230325_232955
+Finished Trainingtraining time:
+20230325_233011
+Finished Trainingtraining time:
+20230325_233132
+Finished Trainingtraining time:
+20230325_233147
+Finished Trainingtraining time:
+20230325_233201
+Finished Trainingtraining time:
+20230325_233215
+Finished Trainingtraining time:
+20230325_233322
+Finished Trainingtraining time:
+20230325_233337
+Finished Trainingtraining time:
+20230325_233352
+Finished Trainingtraining time:
+20230325_233408
+training time:
+20230325_233431
+Finished Trainingtraining time:
+20230325_233447
+Finished Trainingtraining time:
+20230325_233501
+Finished Trainingtraining time:
+20230325_233515
+Finished Trainingtraining time:
+20230325_234729
+training time:
+20230325_234846
+training time:
+20230325_235332
+training time:
+20230325_235432
+training time:
+20230325_235458
+Finished Trainingtraining time:
+20230325_235513
+Finished Trainingtraining time:
+20230325_235807
+Finished Trainingtraining time:
+20230326_000347
+Finished Trainingtraining time:
+20230326_000925
+Finished Trainingtraining time:
+20230326_001441
+training time:
+20230326_001949
+Finished Trainingtraining time:
+20230326_002700
+Finished Trainingtraining time:
+20230326_003313
+Finished Trainingtraining time:
+20230326_003915
+Finished Trainingtraining time:
+20230326_004533
+training time:
+20230326_004754
+training time:
+20230326_004944
+Finished Trainingtraining time:
+20230326_005027
+Finished Trainingtraining time:
+20230326_005222
+training time:
+20230326_005243
+Finished Trainingtraining time:
+20230326_005305
+Finished Trainingtraining time:
+20230326_005345
+Finished Trainingtraining time:
+20230326_005425
+Finished Trainingtraining time:
+20230326_005630
+Finished Trainingtraining time:
+20230326_005726
+Finished Trainingtraining time:
+20230326_005844
+training time:
+20230326_005909
+Finished Trainingtraining time:
+20230326_010042
+Finished Trainingtraining time:
+20230326_010420
+Finished Trainingtraining time:
+20230326_011058
+Finished Trainingtraining time:
+20230326_011720
+Finished Trainingtraining time:
+20230326_012349
+Finished Trainingtraining time:
+20230326_095351
+Finished Trainingtraining time:
+20230326_100745
+Finished Trainingtraining time:
+20230326_102058
+Finished Trainingtraining time:
+20230326_115538
+training time:
+20230326_115848
+Finished Trainingtraining time:
+20230326_115927
+Finished Trainingtraining time:
+20230326_120002
+Finished Trainingtraining time:
+20230326_120034
+Finished Trainingtraining time:
+20230326_120108
+Finished Trainingtraining time:
+20230326_120552
+training time:
+20230326_120749
+Finished Trainingtraining time:
+20230326_120843
+Finished Trainingtraining time:
+20230326_120930
+Finished Trainingtraining time:
+20230326_121014
+Finished Trainingtraining time:
+20230326_180223
+Finished Trainingtraining time:
+20230326_180457
+Finished Trainingtraining time:
+20230326_180725
+Finished Trainingtraining time:
+20230326_180957
+Finished Trainingtraining time:
+20230326_185429
+training time:
+20230326_185650
+training time:
+20230326_185814
+training time:
+20230326_190031
+training time:
+20230326_190237
+training time:
+20230326_190528
+training time:
+20230326_190546
+Finished Trainingtraining time:
+20230326_190859
+Finished Trainingtraining time:
+20230326_191218
+Finished Trainingtraining time:
+20230326_191528
+Finished Trainingtraining time:
+20230326_194138
+training time:
+20230326_194155
+training time:
+20230326_194829
+training time:
+20230326_194922
+Finished Trainingtraining time:
+20230326_200308
+training time:
+20230326_200454
+Finished Trainingtraining time:
+20230326_211434
+Finished Trainingtraining time:
+20230326_214623
+Finished Trainingtraining time:
+20230326_220155
+Finished Trainingtraining time:
+20230326_221804
+Finished Trainingtraining time:
+20230326_224551
+training time:
+20230326_224620
+training time:
+20230326_230758
+training time:
+20230326_234230
+Finished Trainingtraining time:
+20230327_202432
+Finished Trainingtraining time:
+20230327_202739
+Finished Trainingtraining time:
+20230327_203050
+Finished Trainingtraining time:
+20230327_203305
+Finished Trainingtraining time:
+20230327_232852
+Finished Trainingtraining time:
+20230328_003531
+Finished Trainingtraining time:
+20230328_003729
+Finished Trainingtraining time:
+20230328_004023
+Finished Trainingtraining time:
+20230328_004314
+Finished Trainingtraining time:
+20230328_004603
+Finished Trainingtraining time:
+20230421_125814
+training time:
+20230421_130117
+training time:
+20230421_130213
+training time:
+20230421_130426
+Finished Trainingtraining time:
+20230421_130524
+Finished Trainingtraining time:
+20230424_002702
+training time:
+20230424_002932
+training time:
+20230424_003053
+training time:
+20230424_003630
+training time:
+20230424_004359
+training time:
+20230424_004557
+training time:
+20230424_004656
+training time:
+20230424_004838
+training time:
+20230424_004940
+training time:
+20230424_005028
+training time:
+20230424_005510
+training time:
+20230424_005534
+training time:
+20230424_005645
+training time:
+20230424_010052
+training time:
+20230424_010650
+training time:
+20230424_010746
+training time:
+20230424_010936
+training time:
+20230424_011008
+training time:
+20230424_011050
+training time:
+20230424_011140
+training time:
+20230424_011153
+training time:
+20230424_011213
+training time:
+20230424_011238
+Finished Trainingtraining time:
+20230424_011327
