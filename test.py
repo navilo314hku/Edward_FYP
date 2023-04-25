@@ -44,7 +44,8 @@ def report_accuracies(model,train_loader,test_loader, batch_size=batch_size,logF
     return train_acc, test_acc
     '''
     def report(dataloader,mode,logFile=None):
-        classes=['a','b']
+        #classes=['a','b','c','d']
+        classes=['a','b','c','d','e','f','g','h','i','k','l','m','n','o','p','q','r']
         #classes=[0,1,2]
         num_classes=len(classes)
         with torch.no_grad():

@@ -2,18 +2,18 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torchvision
-
+from const import *
 class OptimConvNet2(nn.Module):
     
     def __init__(self,output_size):
         self.model_name="OptimConvNet2"
         print(f"################output_size{output_size}")
         super(OptimConvNet2, self).__init__()
-        self.conv1 = nn.Conv2d(1, 32, 3)
+        self.conv1 = nn.Conv2d(1, 64, 3)
         self.pool1 = nn.MaxPool2d(2, 2)
-        self.conv2 = nn.Conv2d(32,16, 3,padding=1)
+        self.conv2 = nn.Conv2d(64,32, 3,padding=1)
         self.pool2 = nn.MaxPool2d(2,2)
-        self.fc1 = nn.Linear(160,output_size)
+        self.fc1 = nn.Linear(320,output_size)
         #self.fc2 = nn.Linear(256, 128)
         # self.fc3 = nn.Linear(128, output_size)
 
@@ -24,7 +24,7 @@ class OptimConvNet2(nn.Module):
         x = self.pool2(F.relu(self.conv2(x)))  # -> n, 16, 5, 5
         #print("before reshaping")
         #print('x_shape:',x.shape)
-        x = x.view(-1, 160)            # -> n, 400
+        x = x.view(batch_size, -1)            # -> n, 400
         #print("after reshaping")
         #print('x_shape:',x.shape)
         x = F.relu(self.fc1(x))               # -> n, 120
